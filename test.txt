@@ -3,3 +3,6 @@ Today is Friday. It is 3:36PM.
 It is now 3:43PM.
 
 It is now Wednesday.
+
+A potential conflict...master add this line.
+No more conflict! Master wins. Dobby go away!
